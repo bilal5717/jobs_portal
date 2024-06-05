@@ -1,0 +1,872 @@
+<codestructure version="5.15">
+<phptree>
+<treenode node="-1;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f29;1617;31;1617;;;;vpos;;v;;a;;r&quot;-1&quot;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="COMMENT_DASH;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1551;22;1551;;;;vpos;;v;;a;;r2;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="COMMENT_HASH;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1550;22;1550;;;;vpos;;v;;a;;r1;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="COMMENT_OFF;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1549;21;1549;;;;vpos;;v;;a;;r0;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="COMMENT_START;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1552;23;1552;;;;vpos;;v;;a;;r0;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DB_EXTENSION;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f13;1609;25;1609;;;;vpos;;v;;a;;r&quot;mysqli&quot;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="LARAVEL_START;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\public\index.php;f8;9;21;9;;;;vpos;;v;;a;;r&#10;Description&#10;     Laravel - A PHP Framework For Web Artisans;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="mysql;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f29;1613;34;1613;;;;vpos;;v;;a;;r&quot;mysql&quot;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="MYSQLI_TYPE_BIT;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f14;1586;29;1586;;;;vpos;;v;;a;;r16;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="phpmoduleerror;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1575;24;1575;;;;vpos;;v;;a;;r&apos;PHP_MODULE_NOT_INSTALLED&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="phpversionerror;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1574;25;1574;;;;vpos;;v;;a;;r&apos;PHP_VERSION_ERROR&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="tunnelversion;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1572;23;1572;;;;vpos;;v;;a;;r&apos;12.43&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="tunnelversionstring;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1573;29;1573;;;;vpos;;v;;a;;r&apos;TunnelVersion:&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="XML_CHARSET;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1563;21;1563;;;;vpos;;v;;a;;r7;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="XML_DB;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1559;16;1559;;;;vpos;;v;;a;;r3;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="XML_HOST;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1557;18;1557;;;;vpos;;v;;a;;r1;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="XML_LIBXML2_TEST_QUERY;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1565;32;1565;;;;vpos;;v;;a;;r8;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="XML_NOSTATE;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1556;21;1556;;;;vpos;;v;;a;;r0;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="XML_PORT;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1561;18;1561;;;;vpos;;v;;a;;r5;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="XML_PWD;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1560;17;1560;;;;vpos;;v;;a;;r4;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="XML_QUERY;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1562;19;1562;;;;vpos;;v;;a;;r6;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="XML_USER;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f10;1558;18;1558;;;;vpos;;v;;a;;r2;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="AbstractFilter;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\AbstractFilter.php;f9;9;1;37;;;;vpos;;v;;a;;r;;d0,10;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\AbstractFilter.php;f11;15;5;18;;;;vpos;;v;;a;;r;;d4,16;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="filter;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\AbstractFilter.php;f11;19;5;26;;;;vpos;;v;;a;;r;;d4,20;;b1,0;;m0;;ebuilder;;p">
+</treenode>
+<treenode node="getFilters;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\AbstractFilter.php;f14;28;5;31;;;;vpos;;v;;a;;r;;d4,29;;b2,0;;m0;;e">
+</treenode>
+<treenode node="resolveFilter;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\AbstractFilter.php;f14;33;5;36;;;;vpos;;v;;a;;r;;d4,34;;b2,0;;m0;;efilter;;p">
+</treenode>
+</treenode>
+<treenode node="Admin;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Admin\Admin.php;f0;8;1;35;;;;vpos;;v;;aAuthenticatable;;cNotifiable;;c;;r;;d0,9;;b0,0;;m0;;e">
+<treenode node="adminRole;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Admin\Admin.php;f11;32;5;34;;;;vpos;;v;;a;;r;;d31,32;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="AdminController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f0;15;1;277;;;;vpos;;v;;aController;;c;;r;;d0,16;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f8;17;5;24;;;;vpos;;v;;a;;r;;d4,18;;b1,0;;m0;;e">
+</treenode>
+<treenode node="addRole;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;199;5;219;;;;vpos;;v;;a;;r;;d4,200;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="adminsRoles;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;187;2;192;;;;vpos;;v;;a;;r&#10;Definition&#10;    adminsRoles()&#10;&#10;Description&#10;     Roles Management;;d33,187;;b1,0;;m0;;e">
+</treenode>
+<treenode node="appAdmin;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;134;5;137;;;;vpos;;v;;a;;r;;d4,135;;b1,0;;m0;;e">
+</treenode>
+<treenode node="create;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;80;5;87;;;;vpos;;v;;a;;r&#10;Definition&#10;    create()&#10;&#10;Description&#10;     Show the form for creating a new resource.;;d4,81;;b1,0;;m0;;e">
+</treenode>
+<treenode node="createRole;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f8;193;5;197;;;;vpos;;v;;a;;r;;d4,194;;b1,0;;m0;;e">
+</treenode>
+<treenode node="deleteRole;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;269;5;276;;;;vpos;;v;;a;;r;;d4,270;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="destroy;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;125;5;132;;;;vpos;;v;;a;;r&#10;Definition&#10;    destroy($id)&#10;&#10;Description&#10;     Remove the specified resource from storage.&#10;&#10;Parameters:&#10;    int $id;;d4,126;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="edit;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;65;5;73;;;;vpos;;v;;a;;r&#10;Definition&#10;    edit($id)&#10;&#10;Description&#10;     Show the form for editing the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,66;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="editRole;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;221;5;244;;;;vpos;;v;;a;;r;;d4,222;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;30;5;46;;;;vpos;;v;;a;;r&#10;Definition&#10;    index()&#10;&#10;Description&#10;     Display a listing of the resource.;;d4,31;;b1,0;;m0;;e">
+</treenode>
+<treenode node="listAdmins;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;50;2;55;;;;vpos;;v;;a;;r;;d32,50;;b1,0;;m0;;e">
+</treenode>
+<treenode node="show;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;145;5;148;;;;vpos;;v;;a;;r&#10;Definition&#10;    show($id)&#10;&#10;Description&#10;     Display the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,146;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="store;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;95;5;117;;;;vpos;;v;;a;;r&#10;Definition&#10;    store(Request $request)&#10;&#10;Description&#10;     Store a newly created resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request;;d4,96;;b1,0;;m0;;e\Illuminate\Http\Request $request;;p">
+</treenode>
+<treenode node="update_profile;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;158;5;181;;;;vpos;;v;;a;;r&#10;Definition&#10;    update_profile(Request $request, $id)&#10;&#10;Description&#10;     Update the specified resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request&#10;    int $id;;d4,159;;b1,0;;m0;;e\Illuminate\Http\Request $request;;pint $id;;p">
+</treenode>
+<treenode node="updateRole;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\AdminController.php;f11;246;5;267;;;;vpos;;v;;a;;r;;d4,247;;b1,0;;m0;;erequest;;pid;;p">
+</treenode>
+</treenode>
+<treenode node="AdminMiddleware;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Middleware\AdminMiddleware.php;f0;6;1;26;;;;vpos;;v;;a;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="handle;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Middleware\AdminMiddleware.php;f11;15;5;25;;;;vpos;;v;;amixed;;r&#10;Definition&#10;    handle($request, Closure $next)&#10;&#10;Description&#10;     Handle an incoming request.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request&#10;    \Closure $next;;d51,15;;b1,0;;m0;;e\Illuminate\Http\Request $request;;p\Closure $next;;p">
+</treenode>
+</treenode>
+<treenode node="AdminModule;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Admin\AdminModule.php;f0;6;1;22;;;;vpos;;v;;aModel;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="adminRoles;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Admin\AdminModule.php;f11;19;5;21;;;;vpos;;v;;a;;r;;d32,19;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="AdminPermission;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Admin\NewFile.php;f0;6;1;16;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Admin\AdminPermission.php;f0;6;1;16;;;;vpos;;v;;aModel;;c;;r;;d0,7;;b0,0;;m0;;e">
+</treenode>
+<treenode node="AdminRole;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Admin\AdminRole.php;f0;6;1;24;;;;vpos;;v;;aModel;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="adminModules;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Admin\AdminRole.php;f11;21;5;23;;;;vpos;;v;;a;;r;;d34,21;;b1,0;;m0;;e">
+</treenode>
+<treenode node="admins;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Admin\AdminRole.php;f11;18;5;20;;;;vpos;;v;;a;;r;;d28,18;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Answer;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\NewFile.php;f0;10;1;56;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Answer.php;f0;10;1;56;;;;vpos;;v;;aModel;;cSoftDeletes;;c;;r;;d0,11;;b0,0;;m0;;e">
+<treenode node="question;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\NewFile.php;f11;44;5;47;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Answer.php;f11;44;5;47;;;;vpos;;v;;a;;r&#10;Definition&#10;    question()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\BelongsTo;;d4,45;;b1,0;;m0;;e">
+</treenode>
+<treenode node="quiz;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\NewFile.php;f11;36;5;39;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Answer.php;f11;36;5;39;;;;vpos;;v;;a;;r&#10;Definition&#10;    quiz()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\BelongsTo;;d4,37;;b1,0;;m0;;e">
+</treenode>
+<treenode node="responses;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\NewFile.php;f11;52;5;55;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Answer.php;f11;52;5;55;;;;vpos;;v;;a;;r&#10;Definition&#10;    responses()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\HasMany;;d4,53;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="AppServiceProvider;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\AppServiceProvider.php;f0;6;1;28;;;;vpos;;v;;aServiceProvider;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="boot;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\AppServiceProvider.php;f11;24;5;27;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    boot()&#10;&#10;Description&#10;     Bootstrap any application services.;;d4,25;;b1,0;;m0;;e">
+</treenode>
+<treenode node="register;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\AppServiceProvider.php;f11;13;5;17;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    register()&#10;&#10;Description&#10;     Register any application services.;;d4,14;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="AuthController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\AuthController.php;f0;11;1;55;;;;vpos;;v;;aController;;c;;r;;d0,12;;b0,0;;m0;;e">
+<treenode node="createAccount;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\AuthController.php;f11;37;5;54;;;;vpos;;v;;a;;r;;d51,37;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="forgot;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\AuthController.php;f11;26;5;28;;;;vpos;;v;;a;;r;;d28,26;;b1,0;;m0;;e">
+</treenode>
+<treenode node="login;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\AuthController.php;f11;18;5;20;;;;vpos;;v;;a;;r;;d27,18;;b1,0;;m0;;e">
+</treenode>
+<treenode node="register;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\AuthController.php;f11;15;5;17;;;;vpos;;v;;a;;r;;d30,15;;b1,0;;m0;;e">
+</treenode>
+<treenode node="resetForm;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\AuthController.php;f11;30;5;35;;;;vpos;;v;;a;;r;;d4,31;;b1,0;;m0;;erequest;;ptoken;;p">
+</treenode>
+<treenode node="verify;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\AuthController.php;f11;22;5;24;;;;vpos;;v;;a;;r;;d28,22;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Authenticate;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Middleware\Authenticate.php;f0;6;1;20;;;;vpos;;v;;aAuthenticatesRequests;;c;;r;;d0,10;;b0,0;;m0;;e">
+<treenode node="redirectTo;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Middleware\Authenticate.php;f14;14;5;19;;;;vpos;;v;;astring;;r&#10;Definition&#10;    redirectTo($request)&#10;&#10;Description&#10;     Get the path the user should be redirected to when they are not authenticated.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request&#10;&#10;Return:&#10;   |null;;d4,93;;b2,0;;m0;;e\Illuminate\Http\Request $request;;p">
+</treenode>
+</treenode>
+<treenode node="AuthServiceProvider;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\AuthServiceProvider.php;f0;7;1;29;;;;vpos;;v;;aServiceProvider;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="boot;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\AuthServiceProvider.php;f11;23;5;28;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    boot()&#10;&#10;Description&#10;     Register any authentication / authorization services.;;d4,24;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="BroadcastServiceProvider;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\BroadcastServiceProvider.php;f0;7;1;20;;;;vpos;;v;;aServiceProvider;;cDeferrableProvider;;c;;r;;d0,10;;b0,0;;m0;;e">
+<treenode node="boot;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\BroadcastServiceProvider.php;f11;14;5;19;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    boot()&#10;&#10;Description&#10;     Bootstrap any application services.;;d4,15;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CanAnswerQuiz;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Traits\CanAnswerQuiz.php;f0;18;1;56;;;;vpos;;v;;a;;r&#10;Definition&#10;    trait CanAnswerQuiz&#10;&#10;Description&#10;     Copyright (c) 2018 Webbing Brasil (http://www.webbingbrasil.com.br) All Rights Reserved;;d0,19;;b0,0;;m0;;e">
+<treenode node="addResponse;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Traits\CanAnswerQuiz.php;f11;45;5;55;;;;vpos;;v;;a;;r&#10;Definition&#10;    addResponse($quiz, $question, $answer)&#10;&#10;Description&#10;     &#10;&#10;Parameters:&#10;    int $quiz&#10;    int $question&#10;    int $answer;;d4,46;;b1,0;;m0;;eint $quiz;;pint $question;;pint $answer;;p">
+</treenode>
+<treenode node="responses;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Traits\CanAnswerQuiz.php;f11;23;5;26;;;;vpos;;v;;a;;r&#10;Definition&#10;    responses()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\MorphMany;;d4,24;;b1,0;;m0;;e">
+</treenode>
+<treenode node="responsesByQuiz;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Traits\CanAnswerQuiz.php;f11;33;5;36;;;;vpos;;v;;a;;r&#10;Definition&#10;    responsesByQuiz($quiz)&#10;&#10;Description&#10;     &#10;&#10;Parameters:&#10;    int $quiz;;d4,34;;b1,0;;m0;;eint $quiz;;p">
+</treenode>
+</treenode>
+<treenode node="CheckForMaintenanceMode;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Middleware\CheckForMaintenanceMode.php;f0;6;1;16;;;;vpos;;v;;a;;r;;d0,10;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Chef;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Data\Chef.php;f0;8;1;17;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Data\NewFile.php;f0;8;1;17;;;;vpos;;v;;aModel;;c;;r;;d0,9;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Company;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Company.php;f0;7;1;32;;;;vpos;;v;;aModel;;cSoftDeletes;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="boot;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Company.php;f21;25;2;31;;;;vpos;;v;;a;;r;;d36,25;;b2,5;;m0;;e">
+</treenode>
+<treenode node="folders;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Company.php;f11;17;5;19;;;;vpos;;v;;a;;r;;d29,17;;b1,0;;m0;;e">
+</treenode>
+<treenode node="projects;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Company.php;f11;21;5;23;;;;vpos;;v;;a;;r;;d30,21;;b1,0;;m0;;e">
+</treenode>
+<treenode node="users;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Company.php;f11;13;5;15;;;;vpos;;v;;a;;r;;d27,13;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CompanyController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\CompanyController.php;f0;9;1;124;;;;vpos;;v;;aController;;c;;r;;d0,10;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\CompanyController.php;f8;11;5;14;;;;vpos;;v;;a;;r;;d4,12;;b1,0;;m0;;e">
+</treenode>
+<treenode node="create;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\CompanyController.php;f11;34;5;38;;;;vpos;;v;;a;;r&#10;Definition&#10;    create()&#10;&#10;Description&#10;     Show the form for creating a new resource.;;d4,35;;b1,0;;m0;;e">
+</treenode>
+<treenode node="destroy;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\CompanyController.php;f11;117;5;123;;;;vpos;;v;;a;;r&#10;Definition&#10;    destroy($id)&#10;&#10;Description&#10;     Remove the specified resource from storage.&#10;&#10;Parameters:&#10;    int $id;;d4,118;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="edit;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\CompanyController.php;f11;80;5;86;;;;vpos;;v;;a;;r&#10;Definition&#10;    edit($id)&#10;&#10;Description&#10;     Show the form for editing the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,81;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\CompanyController.php;f11;20;5;27;;;;vpos;;v;;a;;r&#10;Definition&#10;    index()&#10;&#10;Description&#10;     Display a listing of the resource.;;d4,21;;b1,0;;m0;;e">
+</treenode>
+<treenode node="show;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\CompanyController.php;f11;69;5;72;;;;vpos;;v;;a;;r&#10;Definition&#10;    show($id)&#10;&#10;Description&#10;     Display the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,70;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="store;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\CompanyController.php;f11;46;5;61;;;;vpos;;v;;a;;r&#10;Definition&#10;    store(Request $request)&#10;&#10;Description&#10;     Store a newly created resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request;;d4,47;;b1,0;;m0;;e\Illuminate\Http\Request $request;;p">
+</treenode>
+<treenode node="update;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\CompanyController.php;f11;95;5;109;;;;vpos;;v;;a;;r&#10;Definition&#10;    update(Request $request, $id)&#10;&#10;Description&#10;     Update the specified resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request&#10;    int $id;;d4,96;;b1,0;;m0;;e\Illuminate\Http\Request $request;;pint $id;;p">
+</treenode>
+</treenode>
+<treenode node="CompanyFilter;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\CompanyFilter.php;f0;8;1;17;;;;vpos;;v;;a;;r;;d0,9;;b0,0;;m0;;e">
+<treenode node="filter;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\CompanyFilter.php;f11;10;5;16;;;;vpos;;v;;a;;r;;d4,11;;b1,0;;m0;;ebuilder;;pvalue;;p">
+</treenode>
+</treenode>
+<treenode node="ConfirmPasswordController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Auth\ConfirmPasswordController.php;f0;8;1;39;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\ConfirmPasswordController.php;f0;8;1;39;;;;vpos;;v;;aController;;cConfirmsPasswords;;c;;r;;d0,9;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Auth\ConfirmPasswordController.php;f11;35;5;38;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\ConfirmPasswordController.php;f11;35;5;38;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    __construct()&#10;&#10;Description&#10;     Create a new controller instance.;;d4,36;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Controller;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Controller.php;f0;9;1;12;;;;vpos;;v;;aBaseController;;cAuthorizesRequests;;c;;r;;d0,10;;b0,0;;m0;;e">
+</treenode>
+<treenode node="CreateAdminsTable;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_08_18_055918_create_admins_table.php;f0;6;1;35;;;;vpos;;v;;aMigration;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="down;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_08_18_055918_create_admins_table.php;f11;31;5;34;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    down()&#10;&#10;Description&#10;     Reverse the migrations.;;d4,32;;b1,0;;m0;;e">
+</treenode>
+<treenode node="up;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_08_18_055918_create_admins_table.php;f11;13;2;24;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    up()&#10;&#10;Description&#10;     Run the migrations.;;d25,13;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CreateCompaniesTable;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_172355_create_companies_table.php;f0;6;1;32;;;;vpos;;v;;aMigration;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="down;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_172355_create_companies_table.php;f11;28;5;31;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    down()&#10;&#10;Description&#10;     Reverse the migrations.;;d4,29;;b1,0;;m0;;e">
+</treenode>
+<treenode node="up;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_172355_create_companies_table.php;f11;13;5;21;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    up()&#10;&#10;Description&#10;     Run the migrations.;;d4,14;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CreateFailedJobsTable;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2019_08_19_000000_create_failed_jobs_table.php;f0;6;1;34;;;;vpos;;v;;aMigration;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="down;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2019_08_19_000000_create_failed_jobs_table.php;f11;30;5;33;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    down()&#10;&#10;Description&#10;     Reverse the migrations.;;d4,31;;b1,0;;m0;;e">
+</treenode>
+<treenode node="up;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2019_08_19_000000_create_failed_jobs_table.php;f11;13;5;23;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    up()&#10;&#10;Description&#10;     Run the migrations.;;d4,14;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CreateFilesTable;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_065445_create_files_table.php;f0;6;1;34;;;;vpos;;v;;aMigration;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="down;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_065445_create_files_table.php;f11;30;5;33;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    down()&#10;&#10;Description&#10;     Reverse the migrations.;;d4,31;;b1,0;;m0;;e">
+</treenode>
+<treenode node="up;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_065445_create_files_table.php;f11;13;5;23;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    up()&#10;&#10;Description&#10;     Run the migrations.;;d4,14;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CreateFoldersTable;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_065052_create_folders_table.php;f0;6;1;33;;;;vpos;;v;;aMigration;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="down;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_065052_create_folders_table.php;f11;29;5;32;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    down()&#10;&#10;Description&#10;     Reverse the migrations.;;d4,30;;b1,0;;m0;;e">
+</treenode>
+<treenode node="up;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_065052_create_folders_table.php;f11;13;5;22;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    up()&#10;&#10;Description&#10;     Run the migrations.;;d4,14;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CreatePasswordResetsTable;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2014_10_12_100000_create_password_resets_table.php;f0;6;1;31;;;;vpos;;v;;aMigration;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="down;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2014_10_12_100000_create_password_resets_table.php;f11;27;5;30;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    down()&#10;&#10;Description&#10;     Reverse the migrations.;;d4,28;;b1,0;;m0;;e">
+</treenode>
+<treenode node="up;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2014_10_12_100000_create_password_resets_table.php;f11;13;5;20;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    up()&#10;&#10;Description&#10;     Run the migrations.;;d4,14;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CreateQuizAnswersTable;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2018_07_03_101403_create_quiz_answers_table.php;f0;18;1;51;;;;vpos;;v;;aMigration;;c;;r&#10;Definition&#10;    class CreateQuizAnswersTable extends Migration&#10;&#10;Description&#10;     Copyright (c) 2018 Webbing Brasil (http://www.webbingbrasil.com.br) All Rights Reserved;;d0,19;;b0,0;;m0;;e">
+<treenode node="down;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2018_07_03_101403_create_quiz_answers_table.php;f11;47;5;50;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    down()&#10;&#10;Description&#10;     Reverse the migrations.;;d4,48;;b1,0;;m0;;e">
+</treenode>
+<treenode node="up;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2018_07_03_101403_create_quiz_answers_table.php;f11;25;5;40;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    up()&#10;&#10;Description&#10;     Run the migrations.;;d4,26;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CreateQuizQuestionsTable;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2018_07_03_101402_create_quiz_questions_table.php;f0;18;1;48;;;;vpos;;v;;aMigration;;c;;r&#10;Definition&#10;    class CreateQuizQuestionsTable extends Migration&#10;&#10;Description&#10;     Copyright (c) 2018 Webbing Brasil (http://www.webbingbrasil.com.br) All Rights Reserved;;d0,19;;b0,0;;m0;;e">
+<treenode node="down;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2018_07_03_101402_create_quiz_questions_table.php;f11;44;5;47;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    down()&#10;&#10;Description&#10;     Reverse the migrations.;;d4,45;;b1,0;;m0;;e">
+</treenode>
+<treenode node="up;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2018_07_03_101402_create_quiz_questions_table.php;f11;25;5;37;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    up()&#10;&#10;Description&#10;     Run the migrations.;;d4,26;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CreateQuizResponsesTable;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2018_07_03_101404_create_quiz_responses_table.php;f0;18;1;52;;;;vpos;;v;;aMigration;;c;;r&#10;Definition&#10;    class CreateQuizResponsesTable extends Migration&#10;&#10;Description&#10;     Copyright (c) 2018 Webbing Brasil (http://www.webbingbrasil.com.br) All Rights Reserved;;d0,19;;b0,0;;m0;;e">
+<treenode node="down;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2018_07_03_101404_create_quiz_responses_table.php;f11;48;5;51;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    down()&#10;&#10;Description&#10;     Reverse the migrations.;;d4,49;;b1,0;;m0;;e">
+</treenode>
+<treenode node="up;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2018_07_03_101404_create_quiz_responses_table.php;f11;25;5;41;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    up()&#10;&#10;Description&#10;     Run the migrations.;;d4,26;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CreateQuizTable;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2018_07_03_101401_create_quiz_table.php;f0;18;1;46;;;;vpos;;v;;aMigration;;c;;r&#10;Definition&#10;    class CreateQuizTable extends Migration&#10;&#10;Description&#10;     Copyright (c) 2018 Webbing Brasil (http://www.webbingbrasil.com.br) All Rights Reserved;;d0,19;;b0,0;;m0;;e">
+<treenode node="down;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2018_07_03_101401_create_quiz_table.php;f11;42;5;45;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    down()&#10;&#10;Description&#10;     Reverse the migrations.;;d4,43;;b1,0;;m0;;e">
+</treenode>
+<treenode node="up;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2018_07_03_101401_create_quiz_table.php;f11;25;5;35;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    up()&#10;&#10;Description&#10;     Run the migrations.;;d4,26;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CreatesApplication;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\tests\CreatesApplication.php;f0;6;1;21;;;;vpos;;v;;a;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="createApplication;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\tests\CreatesApplication.php;f11;13;5;20;;;;vpos;;v;;a;;r&#10;Definition&#10;    createApplication()&#10;&#10;Description&#10;     Creates the application.;;d4,14;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="CreateUsersTable;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2014_10_12_000000_create_users_table.php;f0;6;1;37;;;;vpos;;v;;aMigration;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="down;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2014_10_12_000000_create_users_table.php;f11;33;5;36;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    down()&#10;&#10;Description&#10;     Reverse the migrations.;;d4,34;;b1,0;;m0;;e">
+</treenode>
+<treenode node="up;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2014_10_12_000000_create_users_table.php;f11;13;5;26;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    up()&#10;&#10;Description&#10;     Run the migrations.;;d4,14;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="DatabaseSeeder;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\seeds\DatabaseSeeder.php;f0;4;1;15;;;;vpos;;v;;aSeeder;;c;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="run;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\seeds\DatabaseSeeder.php;f11;11;5;14;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    run()&#10;&#10;Description&#10;     Seed the application&apos;s database.;;d4,12;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="DataImportController;PHP:Class Name;D:\wamp64\www\sampleProjects\importData\quickstart\app\Http\Controllers\DataImport\DataImportController.php;f0;14;1;406;;;;vpos;;v;;aController;;c;;r;;d0,15;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\sampleProjects\importData\quickstart\app\Http\Controllers\DataImport\DataImportController.php;f8;16;5;19;;;;vpos;;v;;a;;r;;d4,17;;b1,0;;m0;;e">
+</treenode>
+<treenode node="addChapters;PHP:Function Name;D:\wamp64\www\sampleProjects\importData\quickstart\app\Http\Controllers\DataImport\DataImportController.php;f1;372;2;404;;;;vpos;;v;;a;;r&#10;Definition&#10;    addChapters()&#10;&#10;Description&#10;     Importing chaptesrs data;;d23,372;;b0,0;;m0;;e">
+</treenode>
+<treenode node="addCountiesWithStates;PHP:Function Name;D:\wamp64\www\sampleProjects\importData\quickstart\app\Http\Controllers\DataImport\DataImportController.php;f1;310;2;367;;;;vpos;;v;;a;;r&#10;Definition&#10;    addCountiesWithStates()&#10;&#10;Description&#10;     Import counties data from old database into wp;;d33,310;;b0,0;;m0;;e">
+</treenode>
+<treenode node="dataImportFunction;PHP:Function Name;D:\wamp64\www\sampleProjects\importData\quickstart\app\Http\Controllers\DataImport\DataImportController.php;f11;26;5;90;;;;vpos;;v;;a;;r&#10;Definition&#10;    dataImportFunction()&#10;&#10;Description&#10;     Display a listing of the resource.;;d4,27;;b1,0;;m0;;e">
+</treenode>
+<treenode node="prepareMetaData;PHP:Function Name;D:\wamp64\www\sampleProjects\importData\quickstart\app\Http\Controllers\DataImport\DataImportController.php;f4;97;2;305;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    prepareMetaData($oldData = array())&#10;&#10;Description&#10;     Prepare meta fields for wordpress users&#10;&#10;Parameters:&#10;    undefined $oldData;;d48,97;;b0,0;;m0;;eundefined $oldData;;p">
+</treenode>
+</treenode>
+<treenode node="Document;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Document.php;f0;7;1;11;;;;vpos;;v;;aModel;;c;;r;;d0,8;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EncryptCookies;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Middleware\EncryptCookies.php;f0;6;1;16;;;;vpos;;v;;a;;r;;d0,12;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EventServiceProvider;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\EventServiceProvider.php;f0;9;1;33;;;;vpos;;v;;aServiceProvider;;c;;r;;d0,9;;b0,0;;m0;;e">
+<treenode node="boot;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\EventServiceProvider.php;f11;27;5;32;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    boot()&#10;&#10;Description&#10;     Register the application&apos;s event listeners.;;d4,30;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ExampleTest;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\tests\Unit\ExampleTest.php;f0;6;1;17;;D:\wamp64\www\myProjects\job_portal\jobs_portal\tests\Feature\ExampleTest.php;f0;7;1;20;;;;vpos;;v;;aTestCase;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="testBasicTest;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\tests\Unit\ExampleTest.php;f11;13;5;16;;D:\wamp64\www\myProjects\job_portal\jobs_portal\tests\Feature\ExampleTest.php;f11;14;5;19;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    testBasicTest()&#10;&#10;Description&#10;     A basic test example.;;d4,14;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="File;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\File.php;f0;7;1;25;;;;vpos;;v;;aModel;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="boot;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\File.php;f21;12;2;18;;;;vpos;;v;;a;;r;;d36,12;;b2,5;;m0;;e">
+</treenode>
+<treenode node="scopeFilter;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\File.php;f8;20;5;24;;;;vpos;;v;;a;;r;;d4,21;;b1,0;;m0;;ebuilder;;prequest;;p">
+</treenode>
+</treenode>
+<treenode node="FileAssignMail;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Mail\FileAssignMail.php;f0;9;1;38;;;;vpos;;v;;aMailable;;cQueueable;;c;;r;;d0,10;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Mail\FileAssignMail.php;f11;18;5;22;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    __construct($data)&#10;&#10;Description&#10;     Create a new message instance.;;d4,19;;b1,0;;m0;;edata;;p">
+</treenode>
+<treenode node="build;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Mail\FileAssignMail.php;f11;29;5;37;;;;vpos;;v;;a;;r&#10;Definition&#10;    build()&#10;&#10;Description&#10;     Build the message.;;d4,30;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="FileController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FileController.php;f0;14;1;368;;;;vpos;;v;;aController;;c;;r;;d0,15;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FileController.php;f8;19;5;22;;;;vpos;;v;;a;;r&#10;Definition&#10;    __construct()&#10;&#10;Description&#10;     Apply Sconstructor method for middleware;;d4,20;;b1,0;;m0;;e">
+</treenode>
+<treenode node="assignFile;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FileController.php;f11;249;5;279;;;;vpos;;v;;a;;r;;d48,249;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="create;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FileController.php;f11;54;5;68;;;;vpos;;v;;a;;r&#10;Definition&#10;    create($folder_id)&#10;&#10;Description&#10;     Show the form for creating a new resource.;;d4,55;;b1,0;;m0;;efolder_id;;p">
+</treenode>
+<treenode node="destroy;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FileController.php;f11;227;5;246;;;;vpos;;v;;a;;r&#10;Definition&#10;    destroy($folderID,$fileID)&#10;&#10;Description&#10;     Remove the specified resource from storage.&#10;&#10;Parameters:&#10;    int $id;;d4,228;;b1,0;;m0;;efolderID;;pfileID;;p">
+</treenode>
+<treenode node="edit;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FileController.php;f11;172;5;177;;;;vpos;;v;;a;;r&#10;Definition&#10;    edit($fodlerID,$fileID)&#10;&#10;Description&#10;     Show the form for editing the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,173;;b1,0;;m0;;efodlerID;;pfileID;;p">
+</treenode>
+<treenode node="findAncestorFolder;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FileController.php;f11;282;5;316;;;;vpos;;v;;a;;r;;d47,282;;b1,0;;m0;;efolder;;p">
+</treenode>
+<treenode node="findAncestorFolderCrumb;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FileController.php;f11;318;5;366;;;;vpos;;v;;a;;r;;d64,318;;b1,0;;m0;;ebreadcrumb;;pfolder;;p">
+</treenode>
+<treenode node="getFolderCompany;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FileController.php;f8;138;2;153;;;;vpos;;v;;a;;r;;d44,138;;b1,0;;m0;;efolderId;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FileController.php;f11;29;5;47;;;;vpos;;v;;a;;r&#10;Definition&#10;    index($folder_id)&#10;&#10;Description&#10;     Display a listing of the resource.;;d4,30;;b1,0;;m0;;efolder_id;;p">
+</treenode>
+<treenode node="show;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FileController.php;f11;161;5;164;;;;vpos;;v;;a;;r&#10;Definition&#10;    show($id)&#10;&#10;Description&#10;     Display the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,162;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="store;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FileController.php;f11;76;5;136;;;;vpos;;v;;a;;r&#10;Definition&#10;    store(Request $request)&#10;&#10;Description&#10;     Store a newly created resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request;;d4,77;;b1,0;;m0;;e\Illuminate\Http\Request $request;;p">
+</treenode>
+<treenode node="update;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FileController.php;f11;186;5;219;;;;vpos;;v;;a;;r&#10;Definition&#10;    update(Request $request)&#10;&#10;Description&#10;     Update the specified resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request&#10;    int $id;;d4,187;;b1,0;;m0;;erequest;;p">
+</treenode>
+</treenode>
+<treenode node="FileFilter;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\FileFilter.php;f0;9;1;15;;;;vpos;;v;;aAbstractFilter;;c;;r;;d0,10;;b0,0;;m0;;e">
+</treenode>
+<treenode node="FileUser;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_173615_file_user.php;f0;6;1;34;;;;vpos;;v;;aMigration;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="down;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_173615_file_user.php;f11;29;5;33;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    down()&#10;&#10;Description&#10;     Reverse the migrations.;;d4,30;;b1,0;;m0;;e">
+</treenode>
+<treenode node="up;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_173615_file_user.php;f11;13;5;22;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    up()&#10;&#10;Description&#10;     Run the migrations.;;d4,14;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Folder;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Folder.php;f0;8;1;52;;;;vpos;;v;;aModel;;c;;r;;d0,9;;b0,0;;m0;;e">
+<treenode node="boot;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Folder.php;f18;20;2;26;;;;vpos;;v;;a;;r;;d33,20;;b2,5;;m0;;e">
+</treenode>
+<treenode node="children;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Folder.php;f10;48;2;50;;;;vpos;;v;;a;;r;;d30,48;;b1,0;;m0;;e">
+</treenode>
+<treenode node="companies;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Folder.php;f10;16;5;18;;;;vpos;;v;;a;;r;;d30,16;;b1,0;;m0;;e">
+</treenode>
+<treenode node="files;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Folder.php;f11;39;2;41;;;;vpos;;v;;a;;r;;d28,39;;b1,0;;m0;;e">
+</treenode>
+<treenode node="parent;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Folder.php;f11;43;2;45;;;;vpos;;v;;a;;r;;d29,43;;b1,0;;m0;;e">
+</treenode>
+<treenode node="scopeFilter;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Folder.php;f8;34;5;37;;;;vpos;;v;;a;;r;;d4,35;;b1,0;;m0;;ebuilder;;prequest;;p">
+</treenode>
+</treenode>
+<treenode node="FolderController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f0;15;1;408;;;;vpos;;v;;aController;;c;;r;;d0,16;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f8;20;5;23;;;;vpos;;v;;a;;r&#10;Definition&#10;    __construct()&#10;&#10;Description&#10;     Apply Sconstructor method for middleware;;d4,21;;b1,0;;m0;;e">
+</treenode>
+<treenode node="assignFolder;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f11;283;5;307;;;;vpos;;v;;a;;r;;d50,283;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="create;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f11;88;5;103;;;;vpos;;v;;a;;r&#10;Definition&#10;    create($parentFolder = &apos;&apos;)&#10;&#10;Description&#10;     Show the form for creating a new resource.;;d4,89;;b1,0;;m0;;eparentFolder;;p">
+</treenode>
+<treenode node="delete_files;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f4;309;5;322;;;;vpos;;v;;a;;r;;d35,309;;b0,0;;m0;;etarget;;p">
+</treenode>
+<treenode node="deleteFoldersTree;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f11;272;2;281;;;;vpos;;v;;a;;r;;d46,272;;b2,0;;m0;;efolder;;p">
+</treenode>
+<treenode node="destroy;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f11;260;5;270;;;;vpos;;v;;a;;r&#10;Definition&#10;    destroy($id)&#10;&#10;Description&#10;     Remove the specified resource from storage.&#10;&#10;Parameters:&#10;    int $id;;d4,261;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="edit;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f11;175;5;194;;;;vpos;;v;;a;;r&#10;Definition&#10;    edit($id)&#10;&#10;Description&#10;     Show the form for editing the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,176;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="findAncestorFolder;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f12;323;5;355;;;;vpos;;v;;a;;r;;d48,323;;b1,0;;m0;;efolder;;p">
+</treenode>
+<treenode node="findAncestorFolderCrumb;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f11;357;5;406;;;;vpos;;v;;a;;r;;d64,357;;b1,0;;m0;;ebreadcrumb;;pfolder;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f11;30;5;81;;;;vpos;;v;;a;;r&#10;Definition&#10;    index(Request $request, $parentFolder = &apos;&apos;)&#10;&#10;Description&#10;     Display a listing of the resource.;;d4,31;;b1,0;;m0;;erequest;;pparentFolder;;p">
+</treenode>
+<treenode node="show;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f11;164;5;167;;;;vpos;;v;;a;;r&#10;Definition&#10;    show($id)&#10;&#10;Description&#10;     Display the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,165;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="store;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f11;111;5;156;;;;vpos;;v;;a;;r&#10;Definition&#10;    store(Request $request)&#10;&#10;Description&#10;     Store a newly created resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request;;d4,112;;b1,0;;m0;;e\Illuminate\Http\Request $request;;p">
+</treenode>
+<treenode node="update;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\FolderController.php;f11;203;5;252;;;;vpos;;v;;a;;r&#10;Definition&#10;    update(Request $request)&#10;&#10;Description&#10;     Update the specified resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request&#10;    int $id;;d4,204;;b1,0;;m0;;erequest;;p">
+</treenode>
+</treenode>
+<treenode node="FolderFilter;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\FolderFilter.php;f0;10;1;17;;;;vpos;;v;;aAbstractFilter;;c;;r;;d0,11;;b0,0;;m0;;e">
+</treenode>
+<treenode node="FolderUser;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_173326_folder_user.php;f0;6;1;34;;;;vpos;;v;;aMigration;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="down;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_173326_folder_user.php;f11;29;5;33;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    down()&#10;&#10;Description&#10;     Reverse the migrations.;;d4,30;;b1,0;;m0;;e">
+</treenode>
+<treenode node="up;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\database\migrations\2020_07_23_173326_folder_user.php;f11;13;5;22;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    up()&#10;&#10;Description&#10;     Run the migrations.;;d4,14;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ForgotPasswordController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Auth\ForgotPasswordController.php;f0;7;1;21;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\ForgotPasswordController.php;f0;7;1;21;;;;vpos;;v;;aController;;cSendsPasswordResetEmails;;c;;r;;d0,8;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Handler;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Exceptions\Handler.php;f0;7;1;54;;;;vpos;;v;;aAbstractHandler;;cHandlerContract;;c;;r&#10;Definition&#10;    class Handler extends AbstractHandler implements HandlerContract&#10;&#10;Description&#10;     This is an Collision Handler implementation.;;d0,24;;b0,0;;m0;;e">
+<treenode node="render;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Exceptions\Handler.php;f11;50;5;53;;;;vpos;;v;;a;;r&#10;Definition&#10;    render($request, Throwable $e)&#10;&#10;Description&#10;     Render an exception into an HTTP response.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request&#10;    \Throwable $e;;d4,190;;b1,0;;m0;;e\Illuminate\Http\Request $request;;p\Throwable $e;;p">
+</treenode>
+<treenode node="report;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Exceptions\Handler.php;f11;36;5;39;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    report(Throwable $e)&#10;&#10;Description&#10;     Report or log an exception.&#10;&#10;Parameters:&#10;    \Throwable $e;;d4,99;;b1,0;;m0;;e\Throwable $e;;p">
+</treenode>
+</treenode>
+<treenode node="HomeController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\HomeController.php;f0;19;1;419;;;;vpos;;v;;aController;;c;;r;;d0,20;;b0,0;;m0;;e">
+<treenode node="account;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\HomeController.php;f11;36;5;75;;;;vpos;;v;;a;;r;;d43,36;;b1,0;;m0;;estepId;;p">
+</treenode>
+<treenode node="download;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\HomeController.php;f11;77;5;90;;;;vpos;;v;;a;;r;;d37,77;;b1,0;;m0;;efileid;;p">
+</treenode>
+<treenode node="downloadzip;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\HomeController.php;f11;124;5;129;;;;vpos;;v;;a;;r;;d41,124;;b1,0;;m0;;ezipname;;p">
+</treenode>
+<treenode node="findAncestorFolder;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\HomeController.php;f11;131;5;178;;;;vpos;;v;;a;;r;;d59,131;;b1,0;;m0;;ebreadcrumb;;pfolder;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\HomeController.php;f11;22;5;34;;;;vpos;;v;;a;;r;;d61,22;;b1,0;;m0;;efolderId;;pfolderSlug;;p">
+</treenode>
+<treenode node="multiple;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\HomeController.php;f11;92;5;122;;;;vpos;;v;;a;;r;;d46,92;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="update_profile;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\HomeController.php;f11;187;5;206;;;;vpos;;v;;a;;r&#10;Definition&#10;    update_profile(Request $request, $id)&#10;&#10;Description&#10;     Update the specified resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request&#10;    int $id;;d4,188;;b1,0;;m0;;e\Illuminate\Http\Request $request;;pint $id;;p">
+</treenode>
+<treenode node="update_profile_wizard;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\HomeController.php;f11;215;5;378;;;;vpos;;v;;a;;r&#10;Definition&#10;    update_profile_wizard(Request $request)&#10;&#10;Description&#10;     Update the specified resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request&#10;    int $id;;d4,216;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="uploadProfileImage;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\HomeController.php;f11;380;2;417;;;;vpos;;v;;a;;r;;d56,380;;b1,0;;m0;;erequest;;p">
+</treenode>
+</treenode>
+<treenode node="Kernel;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Kernel.php;f0;6;1;67;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Console\Kernel.php;f0;7;1;40;;;;vpos;;v;;aKernelInterface;;cRebootableInterface;;cTerminableInterface;;c;;r&#10;Definition&#10;    class Kernel implements KernelInterface, RebootableInterface, TerminableInterface&#10;&#10;Description&#10;     The Kernel is the heart of the Symfony system.;;d0,56;;b0,0;;m0;;e">
+<treenode node="commands;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Console\Kernel.php;f14;34;5;39;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    commands()&#10;&#10;Description&#10;     Register the Closure based commands for the application.;;d4,179;;b2,0;;m0;;e">
+</treenode>
+<treenode node="schedule;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Console\Kernel.php;f14;24;5;27;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    schedule(Schedule $schedule)&#10;&#10;Description&#10;     Define the application&apos;s command schedule.&#10;&#10;Parameters:&#10;    \Illuminate\Console\Scheduling\Schedule $schedule;;d4,157;;b2,0;;m0;;e\Illuminate\Console\Scheduling\Schedule $schedule;;p">
+</treenode>
+</treenode>
+<treenode node="LoginController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Auth\LoginController.php;f0;8;1;39;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\LoginController.php;f0;10;1;98;;;;vpos;;v;;aController;;cAuthenticatesUsers;;c;;r;;d0,11;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Auth\LoginController.php;f11;35;5;38;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\LoginController.php;f11;17;5;20;;;;vpos;;v;;a;;r;;d4,18;;b1,0;;m0;;e">
+</treenode>
+<treenode node="authenticated;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\LoginController.php;f11;62;5;65;;;;vpos;;v;;a;;r;;d58,62;;b2,0;;m0;;erequest;;puser;;p">
+</treenode>
+<treenode node="guard;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\LoginController.php;f15;22;5;25;;;;vpos;;v;;a;;r;;d4,23;;b2,0;;m0;;e">
+</treenode>
+<treenode node="loggedOut;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\LoginController.php;f14;83;5;86;;;;vpos;;v;;amixed;;r&#10;Definition&#10;    loggedOut(Request $request)&#10;&#10;Description&#10;     The user has logged out of the application.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request;;d4,84;;b2,0;;m0;;e\Illuminate\Http\Request $request;;p">
+</treenode>
+<treenode node="login;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\LoginController.php;f11;31;5;60;;;;vpos;;v;;a;;r;;d4,32;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="logout;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\LoginController.php;f12;67;5;75;;;;vpos;;v;;a;;r;;d4,68;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="redirectTo;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\LoginController.php;f12;93;5;96;;;;vpos;;v;;astring;;r&#10;Definition&#10;    redirectTo()&#10;&#10;Description&#10;     Where to redirect users after login.;;d4,94;;b3,0;;m0;;e">
+</treenode>
+<treenode node="showLoginForm;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\LoginController.php;f11;26;5;29;;;;vpos;;v;;a;;r;;d4,27;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="NameFilter;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\NameFilter.php;f0;8;1;14;;;;vpos;;v;;a;;r;;d0,9;;b0,0;;m0;;e">
+<treenode node="filter;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\NameFilter.php;f11;10;5;13;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\NewFile.php;f11;10;5;13;;;;vpos;;v;;a;;r;;d4,11;;b1,0;;m0;;ebuilder;;pvalue;;p">
+</treenode>
+</treenode>
+<treenode node="OneCompanyFilter;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\OneCompanyFilter.php;f0;8;1;17;;;;vpos;;v;;a;;r;;d0,9;;b0,0;;m0;;e">
+<treenode node="filter;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\OneCompanyFilter.php;f11;10;5;16;;;;vpos;;v;;a;;r;;d4,11;;b1,0;;m0;;ebuilder;;pvalue;;p">
+</treenode>
+</treenode>
+<treenode node="PasswordReset;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Notifications\PasswordReset.php;f0;8;1;103;;;;vpos;;v;;aSerializesModels;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Notifications\PasswordReset.php;f11;37;5;40;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    __construct($user)&#10;&#10;Description&#10;     Create a new event instance.&#10;&#10;Parameters:&#10;    \Illuminate\Contracts\Auth\Authenticatable $user;;d4,24;;b1,0;;m0;;e\Illuminate\Contracts\Auth\Authenticatable $user;;p">
+</treenode>
+<treenode node="createUrlUsing;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Notifications\PasswordReset.php;f18;88;5;91;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    createUrlUsing($callback)&#10;&#10;Description&#10;     Set a callback that should be used when creating the reset password button URL.&#10;&#10;Parameters:&#10;    \Closure $callback;;d4,89;;b1,5;;m0;;e\Closure $callback;;p">
+</treenode>
+<treenode node="toMail;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Notifications\PasswordReset.php;f11;59;5;80;;;;vpos;;v;;a;;r&#10;Definition&#10;    toMail($notifiable)&#10;&#10;Description&#10;     Build the mail representation of the notification.&#10;&#10;Parameters:&#10;    mixed $notifiable;;d4,60;;b1,0;;m0;;emixed $notifiable;;p">
+</treenode>
+<treenode node="toMailUsing;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Notifications\PasswordReset.php;f18;99;5;102;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    toMailUsing($callback)&#10;&#10;Description&#10;     Set a callback that should be used when building the notification mail message.&#10;&#10;Parameters:&#10;    \Closure $callback;;d4,100;;b1,5;;m0;;e\Closure $callback;;p">
+</treenode>
+<treenode node="via;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Notifications\PasswordReset.php;f11;48;5;51;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    via($notifiable)&#10;&#10;Description&#10;     Get the notification&apos;s channels.&#10;&#10;Parameters:&#10;    mixed $notifiable&#10;&#10;Return:&#10;   |string;;d4,49;;b1,0;;m0;;emixed $notifiable;;p">
+</treenode>
+</treenode>
+<treenode node="Project;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Project.php;f0;7;1;24;;;;vpos;;v;;aModel;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="boot;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Project.php;f21;17;2;23;;;;vpos;;v;;a;;r;;d36,17;;b2,5;;m0;;e">
+</treenode>
+<treenode node="company;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Project.php;f11;13;5;15;;;;vpos;;v;;a;;r;;d29,13;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ProjectController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\NewFile.php;f0;9;1;131;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\ProjectController.php;f0;12;1;146;;;;vpos;;v;;aController;;c;;r;;d0,13;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\NewFile.php;f8;11;5;14;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\ProjectController.php;f8;14;5;17;;;;vpos;;v;;a;;r;;d4,15;;b1,0;;m0;;e">
+</treenode>
+<treenode node="create;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\NewFile.php;f11;33;5;39;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\ProjectController.php;f11;46;5;52;;;;vpos;;v;;a;;r&#10;Definition&#10;    create()&#10;&#10;Description&#10;     Show the form for creating a new resource.;;d4,47;;b1,0;;m0;;e">
+</treenode>
+<treenode node="destroy;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\NewFile.php;f11;124;5;130;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\ProjectController.php;f11;137;5;145;;;;vpos;;v;;a;;r&#10;Definition&#10;    destroy($id)&#10;&#10;Description&#10;     Remove the specified resource from storage.&#10;&#10;Parameters:&#10;    int $id;;d4,138;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="edit;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\NewFile.php;f11;83;5;91;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\ProjectController.php;f11;96;5;104;;;;vpos;;v;;a;;r&#10;Definition&#10;    edit($id)&#10;&#10;Description&#10;     Show the form for editing the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,97;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\NewFile.php;f11;20;5;26;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\ProjectController.php;f11;23;5;39;;;;vpos;;v;;a;;r&#10;Definition&#10;    index()&#10;&#10;Description&#10;     Display a listing of the resource.;;d4,24;;b1,0;;m0;;e">
+</treenode>
+<treenode node="show;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\NewFile.php;f11;72;5;75;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\ProjectController.php;f11;85;5;88;;;;vpos;;v;;a;;r&#10;Definition&#10;    show($id)&#10;&#10;Description&#10;     Display the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,86;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="store;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\NewFile.php;f11;47;5;64;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\ProjectController.php;f11;60;5;77;;;;vpos;;v;;a;;r&#10;Definition&#10;    store(Request $request)&#10;&#10;Description&#10;     Store a newly created resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request;;d4,61;;b1,0;;m0;;e\Illuminate\Http\Request $request;;p">
+</treenode>
+<treenode node="update;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\NewFile.php;f11;100;5;116;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\ProjectController.php;f11;113;5;129;;;;vpos;;v;;a;;r&#10;Definition&#10;    update(Request $request, $id)&#10;&#10;Description&#10;     Update the specified resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request&#10;    int $id;;d4,114;;b1,0;;m0;;e\Illuminate\Http\Request $request;;pint $id;;p">
+</treenode>
+</treenode>
+<treenode node="Question;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Question.php;f0;9;1;53;;;;vpos;;v;;aModel;;cSoftDeletes;;c;;r;;d0,10;;b0,0;;m0;;e">
+<treenode node="answers;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Question.php;f11;41;5;44;;;;vpos;;v;;a;;r&#10;Definition&#10;    answers()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\HasMany;;d4,42;;b1,0;;m0;;e">
+</treenode>
+<treenode node="quiz;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Question.php;f11;33;5;36;;;;vpos;;v;;a;;r&#10;Definition&#10;    quiz()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\BelongsTo;;d4,34;;b1,0;;m0;;e">
+</treenode>
+<treenode node="responses;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Question.php;f11;49;5;52;;;;vpos;;v;;a;;r&#10;Definition&#10;    responses()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\HasMany;;d4,50;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Quiz;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Quiz.php;f0;11;1;55;;;;vpos;;v;;aModel;;cSoftDeletes;;c;;r;;d0,12;;b0,0;;m0;;e">
+<treenode node="answers;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Quiz.php;f11;43;5;46;;;;vpos;;v;;a;;r&#10;Definition&#10;    answers()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\HasMany;;d4,44;;b1,0;;m0;;e">
+</treenode>
+<treenode node="questions;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Quiz.php;f11;35;5;38;;;;vpos;;v;;a;;r&#10;Definition&#10;    questions()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\HasMany;;d4,36;;b1,0;;m0;;e">
+</treenode>
+<treenode node="responses;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Quiz.php;f11;51;5;54;;;;vpos;;v;;a;;r&#10;Definition&#10;    responses()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\HasMany;;d4,52;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="QuizController;PHP:Class Name;D:\wamp64\www\laravel-quiz-master\app\Http\Controllers\QuizController.php;f0;15;1;182;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\quiz\NewFile.php;f0;12;1;19;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\quiz\QuizController.php;f0;12;1;23;;;;vpos;;v;;aController;;c;;r;;d0,13;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\laravel-quiz-master\app\Http\Controllers\QuizController.php;f8;18;2;21;;;;vpos;;v;;a;;r;;d1,19;;b1,0;;m0;;e">
+</treenode>
+<treenode node="activateQuiz;PHP:Function Name;D:\wamp64\www\laravel-quiz-master\app\Http\Controllers\QuizController.php;f8;136;2;160;;;;vpos;;v;;a;;r&#10;Definition&#10;    activateQuiz(Request $request, Quiz $quiz, $quizId)&#10;&#10;Description&#10;     Activate a Quiz;;d1,137;;b1,0;;m0;;erequest;;pquiz;;pquizId;;p">
+</treenode>
+<treenode node="addQuestion;PHP:Function Name;D:\wamp64\www\laravel-quiz-master\app\Http\Controllers\QuizController.php;f8;77;2;131;;;;vpos;;v;;a;;r&#10;Definition&#10;    addQuestion(Request $request, Quiz $quiz, $quizId)&#10;&#10;Description&#10;     Add Question to the quiz;;d67,77;;b1,0;;m0;;erequest;;pquiz;;pquizId;;p">
+</treenode>
+<treenode node="createQuiz;PHP:Function Name;D:\wamp64\www\laravel-quiz-master\app\Http\Controllers\QuizController.php;f8;34;2;48;;;;vpos;;v;;a;;r&#10;Definition&#10;    createQuiz(Request $request)&#10;&#10;Description&#10;     Creates the Quiz;;d45,34;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="deactivateQuiz;PHP:Function Name;D:\wamp64\www\laravel-quiz-master\app\Http\Controllers\QuizController.php;f11;165;5;171;;;;vpos;;v;;a;;r&#10;Definition&#10;    deactivateQuiz(Request $request, Quiz $quiz, $quizId)&#10;&#10;Description&#10;     Deactivate a Quiz;;d4,166;;b1,0;;m0;;erequest;;pquiz;;pquizId;;p">
+</treenode>
+<treenode node="deleteQuestion;PHP:Function Name;D:\wamp64\www\laravel-quiz-master\app\Http\Controllers\QuizController.php;f11;176;5;181;;;;vpos;;v;;a;;r&#10;Definition&#10;    deleteQuestion(Request $request, Quiz $quiz, $questionId)&#10;&#10;Description&#10;     Deleting a Quiz;;d77,176;;b1,0;;m0;;erequest;;pquiz;;pquestionId;;p">
+</treenode>
+<treenode node="deleteQuiz;PHP:Function Name;D:\wamp64\www\laravel-quiz-master\app\Http\Controllers\QuizController.php;f8;53;2;60;;;;vpos;;v;;a;;r&#10;Definition&#10;    deleteQuiz($quizid)&#10;&#10;Description&#10;     Delete Quiz;;d36,53;;b1,0;;m0;;equizid;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\quiz\NewFile.php;f11;15;2;18;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\quiz\QuizController.php;f11;15;2;22;;;;vpos;;v;;a;;r;;d27,15;;b1,0;;m0;;e">
+</treenode>
+<treenode node="showQuiz;PHP:Function Name;D:\wamp64\www\laravel-quiz-master\app\Http\Controllers\QuizController.php;f8;26;2;29;;;;vpos;;v;;a;;r&#10;Definition&#10;    showQuiz(Request $request)&#10;&#10;Description&#10;     Display all the Quizzes;;d43,26;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="viewQuiz;PHP:Function Name;D:\wamp64\www\laravel-quiz-master\app\Http\Controllers\QuizController.php;f8;66;2;71;;;;vpos;;v;;a;;r&#10;Definition&#10;    viewQuiz(Request $request, Quiz $quiz)&#10;&#10;Description&#10;     View Single Quiz;;d55,66;;b1,0;;m0;;erequest;;pquiz;;p">
+</treenode>
+</treenode>
+<treenode node="RedirectIfAuthenticated;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Middleware\RedirectIfAuthenticated.php;f0;8;1;31;;;;vpos;;v;;a;;r;;d0,9;;b0,0;;m0;;e">
+<treenode node="handle;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Middleware\RedirectIfAuthenticated.php;f11;18;5;30;;;;vpos;;v;;amixed;;r&#10;Definition&#10;    handle($request, Closure $next, $guard = null)&#10;&#10;Description&#10;     Handle an incoming request.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request&#10;    \Closure $next&#10;    string|null $guard;;d4,19;;b1,0;;m0;;e\Illuminate\Http\Request $request;;p\Closure $next;;pstring|null $guard;;p">
+</treenode>
+</treenode>
+<treenode node="RegisterController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Auth\RegisterController.php;f0;11;1;72;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\RegisterController.php;f0;11;1;72;;;;vpos;;v;;aController;;cRegistersUsers;;c;;r;;d0,12;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Auth\RegisterController.php;f11;38;5;41;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\RegisterController.php;f11;38;5;41;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    __construct()&#10;&#10;Description&#10;     Create a new controller instance.;;d4,39;;b1,0;;m0;;e">
+</treenode>
+<treenode node="create;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Auth\RegisterController.php;f14;64;5;71;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\RegisterController.php;f14;64;5;71;;;;vpos;;v;;a;;r&#10;Definition&#10;    create(array $data)&#10;&#10;Description&#10;     Create a new user instance after a valid registration.&#10;&#10;Parameters:&#10;    array $data;;d4,65;;b2,0;;m0;;earray $data;;p">
+</treenode>
+<treenode node="validator;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Auth\RegisterController.php;f14;49;5;56;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\RegisterController.php;f14;49;5;56;;;;vpos;;v;;a;;r&#10;Definition&#10;    validator(array $data)&#10;&#10;Description&#10;     Get a validator for an incoming registration request.&#10;&#10;Parameters:&#10;    array $data;;d4,50;;b2,0;;m0;;earray $data;;p">
+</treenode>
+</treenode>
+<treenode node="ResetPasswordController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Auth\ResetPasswordController.php;f0;8;1;29;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\ResetPasswordController.php;f0;8;1;29;;;;vpos;;v;;aController;;cResetsPasswords;;c;;r;;d0,9;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Response;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Response.php;f0;9;1;62;;;;vpos;;v;;aModel;;cSoftDeletes;;c;;r;;d0,10;;b0,0;;m0;;e">
+<treenode node="answer;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Response.php;f11;58;5;61;;;;vpos;;v;;a;;r&#10;Definition&#10;    answer()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\BelongsTo;;d4,59;;b1,0;;m0;;e">
+</treenode>
+<treenode node="question;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Response.php;f11;50;5;53;;;;vpos;;v;;a;;r&#10;Definition&#10;    question()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\BelongsTo;;d4,51;;b1,0;;m0;;e">
+</treenode>
+<treenode node="quiz;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Response.php;f11;42;5;45;;;;vpos;;v;;a;;r&#10;Definition&#10;    quiz()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\BelongsTo;;d4,43;;b1,0;;m0;;e">
+</treenode>
+<treenode node="quizable;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Quiz\Response.php;f11;34;5;37;;;;vpos;;v;;a;;r&#10;Definition&#10;    quizable()&#10;&#10;Description&#10;      \Illuminate\Database\Eloquent\Relations\MorphTo;;d4,35;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="RouteServiceProvider;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\RouteServiceProvider.php;f0;7;1;79;;;;vpos;;v;;aServiceProvider;;cForwardsCalls;;c;;r&#10;Definition&#10;    class RouteServiceProvider extends ServiceProvider&#10;&#10;Description&#10;      mixin \Illuminate\Routing\Router;;d0,13;;b0,0;;m0;;e">
+<treenode node="HOME;PHP:PHP Word;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\RouteServiceProvider.php;f16;23;21;23;;;;vposstring;;v;;a;;r&apos;/home&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="boot;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\RouteServiceProvider.php;f11;30;5;35;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    boot()&#10;&#10;Description&#10;     Bootstrap any application services.;;d4,29;;b1,0;;m0;;e">
+</treenode>
+<treenode node="map;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\RouteServiceProvider.php;f11;42;5;49;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    map()&#10;&#10;Description&#10;     Define the routes for the application.;;d4,43;;b1,0;;m0;;e">
+</treenode>
+<treenode node="mapApiRoutes;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\RouteServiceProvider.php;f14;72;5;78;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    mapApiRoutes()&#10;&#10;Description&#10;     Define the &quot;api&quot; routes for the application.;;d4,73;;b2,0;;m0;;e">
+</treenode>
+<treenode node="mapWebRoutes;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Providers\RouteServiceProvider.php;f14;58;5;63;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    mapWebRoutes()&#10;&#10;Description&#10;     Define the &quot;web&quot; routes for the application.;;d4,59;;b2,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="SubFolderController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\SubFolderController.php;f0;7;1;93;;;;vpos;;v;;aController;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\SubFolderController.php;f8;12;5;15;;;;vpos;;v;;a;;r&#10;Definition&#10;    __construct()&#10;&#10;Description&#10;     Apply Sconstructor method for middleware;;d4,13;;b1,0;;m0;;e">
+</treenode>
+<treenode node="create;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\SubFolderController.php;f11;33;5;36;;;;vpos;;v;;a;;r&#10;Definition&#10;    create()&#10;&#10;Description&#10;     Show the form for creating a new resource.;;d4,34;;b1,0;;m0;;e">
+</treenode>
+<treenode node="destroy;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\SubFolderController.php;f11;89;5;92;;;;vpos;;v;;a;;r&#10;Definition&#10;    destroy($id)&#10;&#10;Description&#10;     Remove the specified resource from storage.&#10;&#10;Parameters:&#10;    int $id;;d4,90;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="edit;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\SubFolderController.php;f11;66;5;69;;;;vpos;;v;;a;;r&#10;Definition&#10;    edit($id)&#10;&#10;Description&#10;     Show the form for editing the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,67;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\SubFolderController.php;f11;22;5;26;;;;vpos;;v;;a;;r&#10;Definition&#10;    index($id)&#10;&#10;Description&#10;     Display a listing of the resource.;;d4,23;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="show;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\SubFolderController.php;f11;55;5;58;;;;vpos;;v;;a;;r&#10;Definition&#10;    show($id)&#10;&#10;Description&#10;     Display the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,56;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="store;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\SubFolderController.php;f11;44;5;47;;;;vpos;;v;;a;;r&#10;Definition&#10;    store(Request $request)&#10;&#10;Description&#10;     Store a newly created resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request;;d4,45;;b1,0;;m0;;e\Illuminate\Http\Request $request;;p">
+</treenode>
+<treenode node="update;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\SubFolderController.php;f11;78;5;81;;;;vpos;;v;;a;;r&#10;Definition&#10;    update(Request $request, $id)&#10;&#10;Description&#10;     Update the specified resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request&#10;    int $id;;d4,79;;b1,0;;m0;;e\Illuminate\Http\Request $request;;pint $id;;p">
+</treenode>
+</treenode>
+<treenode node="TestCase;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\tests\TestCase.php;f9;6;1;9;;;;vpos;;v;;aAssert;;cSelfDescribing;;cTest;;c;;r;;d0,58;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Timesheet;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\Timesheet.php;f0;7;1;35;;;;vpos;;v;;aModel;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="boot;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\TimeTable\Timetable.php;f21;28;2;34;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\Timesheet.php;f21;28;2;34;;;;vpos;;v;;a;;r;;d36,28;;b2,5;;m0;;e">
+</treenode>
+<treenode node="timesheet_comments;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\TimeTable\Timetable.php;f11;20;5;22;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\Timesheet.php;f11;20;5;22;;;;vpos;;v;;a;;r;;d40,20;;b1,0;;m0;;e">
+</treenode>
+<treenode node="timesheet_daily_hours;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\TimeTable\Timetable.php;f11;16;5;18;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\Timesheet.php;f11;16;5;18;;;;vpos;;v;;a;;r;;d43,16;;b1,0;;m0;;e">
+</treenode>
+<treenode node="user;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\TimeTable\Timetable.php;f11;24;5;26;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\Timesheet.php;f11;24;5;26;;;;vpos;;v;;a;;r;;d26,24;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="TimesheetComment;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\TimesheetComments.php;f0;7;1;23;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\TimesheetComment.php;f0;7;1;27;;;;vpos;;v;;aModel;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="boot;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\TimesheetComment.php;f21;20;2;26;;;;vpos;;v;;a;;r;;d36,20;;b2,5;;m0;;e">
+</treenode>
+<treenode node="timesheet;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\TimesheetComment.php;f11;16;5;18;;;;vpos;;v;;a;;r;;d31,16;;b1,0;;m0;;e">
+</treenode>
+<treenode node="timesheets;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\TimesheetComments.php;f11;12;5;14;;;;vpos;;v;;a;;r;;d32,12;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="TimesheetController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\timesheet\NewFile.php;f0;17;1;36;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f0;13;1;210;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\timesheet\TimesheetController.php;f0;18;1;180;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\TimesheetController.php;f0;13;1;216;;;;vpos;;v;;aController;;c;;r;;d0,14;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f8;18;5;21;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f8;17;5;20;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\TimesheetController.php;f8;18;5;21;;;;vpos;;v;;a;;r&#10;Definition&#10;    __construct()&#10;&#10;Description&#10;     Apply Sconstructor method for middleware;;d4,19;;b1,0;;m0;;e">
+</treenode>
+<treenode node="changeStatus;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f8;47;2;63;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f8;46;2;66;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\TimesheetController.php;f8;47;2;67;;;;vpos;;v;;a;;r&#10;Definition&#10;    changeStatus(Request $request)&#10;&#10;Description&#10;     Change timesheet status;;d47,47;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="createNewTimeSheet;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\timesheet\TimesheetController.php;f8;78;2;97;;;;vpos;;v;;a;;r;;d53,78;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="destroy;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f11;199;5;204;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f11;193;5;198;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\TimesheetController.php;f11;203;5;210;;;;vpos;;v;;a;;r&#10;Definition&#10;    destroy($id)&#10;&#10;Description&#10;     Remove the specified resource from storage.&#10;&#10;Parameters:&#10;    int $id;;d4,204;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="editTimeSheet;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\timesheet\TimesheetController.php;f8;99;2;118;;;;vpos;;v;;a;;r;;d48,99;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="fetchEmployee;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f11;206;5;209;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f11;200;5;203;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\TimesheetController.php;f11;212;5;215;;;;vpos;;v;;a;;r;;d38,212;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="getDateRecord;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f8;111;2;114;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f8;114;2;117;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\timesheet\TimesheetController.php;f8;73;2;76;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\TimesheetController.php;f8;115;2;118;;;;vpos;;v;;a;;r;;d46,115;;b1,0;;m0;;edate;;puserId;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\timesheet\NewFile.php;f11;20;5;32;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f11;28;5;40;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f11;27;5;39;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\timesheet\TimesheetController.php;f11;21;5;71;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\TimesheetController.php;f11;28;5;40;;;;vpos;;v;;a;;r&#10;Definition&#10;    index($status = NULL)&#10;&#10;Description&#10;     Display a listing of the resource.;;d4,29;;b1,0;;m0;;estatus;;p">
+</treenode>
+<treenode node="openTimesheet;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f11;65;2;109;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f11;68;2;112;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\TimesheetController.php;f11;69;2;113;;;;vpos;;v;;a;;r;;d45,69;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="saveTimesheet;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\timesheet\TimesheetController.php;f11;120;2;156;;;;vpos;;v;;a;;r;;d51,120;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="saveTimesheetAction;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f8;161;2;190;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f8;164;2;184;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\TimesheetController.php;f8;165;2;194;;;;vpos;;v;;a;;r;;d54,165;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="saveTimesheetAdmin;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f8;116;2;159;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f8;119;2;162;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\TimesheetController.php;f8;120;2;163;;;;vpos;;v;;a;;r;;d53,120;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="submitTimesheet;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\frontend\timesheet\TimesheetController.php;f11;158;2;179;;;;vpos;;v;;a;;r;;d53,158;;b1,0;;m0;;erequest;;p">
+</treenode>
+</treenode>
+<treenode node="TimesheetDailyHour;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\NewFile.php;f0;7;1;27;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\TimesheetDailyHour.php;f0;7;1;31;;;;vpos;;v;;aModel;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="projects;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\NewFile.php;f11;12;5;14;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\TimeTable\TimetableHour.php;f11;16;5;18;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\TimesheetDailyHour.php;f11;16;5;18;;;;vpos;;v;;a;;r;;d30,16;;b1,0;;m0;;e">
+</treenode>
+<treenode node="user;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\TimeTable\TimetableHour.php;f11;20;5;22;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\TimesheetDailyHour.php;f11;20;5;22;;;;vpos;;v;;a;;r;;d26,20;;b1,0;;m0;;e">
+</treenode>
+<treenode node="users;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\Timesheet\NewFile.php;f11;16;5;18;;;;vpos;;v;;a;;r;;d27,20;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Timetable;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\TimeTable\Timetable.php;f0;7;1;27;;;;vpos;;v;;aModel;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="boot;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\TimeTable\Timetable.php;f21;20;2;26;;;;vpos;;v;;a;;r;;d36,20;;b2,5;;m0;;e">
+</treenode>
+<treenode node="timetable_hours;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\TimeTable\Timetable.php;f11;16;5;18;;;;vpos;;v;;a;;r;;d37,16;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="TimetableController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f0;13;1;409;;;;vpos;;v;;aController;;c;;r;;d0,14;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f8;18;5;21;;;;vpos;;v;;a;;r&#10;Definition&#10;    __construct()&#10;&#10;Description&#10;     Apply Sconstructor method for middleware;;d4,19;;b1,0;;m0;;e">
+</treenode>
+<treenode node="changeStatus;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f8;88;2;108;;;;vpos;;v;;a;;r&#10;Definition&#10;    changeStatus(Request $request)&#10;&#10;Description&#10;     Change timetable status;;d47,88;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="checkDuplicateUser;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f11;401;5;408;;;;vpos;;v;;a;;r;;d55,401;;b1,0;;m0;;euser_id;;pdate;;p">
+</treenode>
+<treenode node="create;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f11;45;5;81;;;;vpos;;v;;a;;r&#10;Definition&#10;    create()&#10;&#10;Description&#10;     Show the form for creating a new resource.;;d4,46;;b1,0;;m0;;e">
+</treenode>
+<treenode node="destroy;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f11;387;5;393;;;;vpos;;v;;a;;r&#10;Definition&#10;    destroy($id)&#10;&#10;Description&#10;     Remove the specified resource from storage.&#10;&#10;Parameters:&#10;    int $id;;d4,388;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="fetchEmployee;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f11;395;5;398;;;;vpos;;v;;a;;r;;d38,395;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="getDateRecord;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f8;213;2;217;;;;vpos;;v;;a;;r;;d54,213;;b1,0;;m0;;etimetableId;;pdayName;;p">
+</treenode>
+<treenode node="getDateRecordByProjectIds;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f8;227;2;231;;;;vpos;;v;;a;;r&#10;Definition&#10;    getDateRecordByProjectIds($timetableId, $dayName, $projectIds = array())&#10;&#10;Description&#10;     Get timetable hours by project id&#10;&#10;Parameters:&#10;     $timetableId&#10;     $dayName&#10;     $projectId;;d89,227;;b1,0;;m0;;e $timetableId;;p $dayName;;p $projectId;;p">
+</treenode>
+<treenode node="getDateRecordByUser;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f8;240;2;244;;;;vpos;;v;;a;;r&#10;Definition&#10;    getDateRecordByUser($timetableId, $dayName, $user_id)&#10;&#10;Description&#10;     Get timetable hours by a specific user&#10;&#10;Parameters:&#10;     $timetableId&#10;     $dayName&#10;     $user_id;;d70,240;;b1,0;;m0;;e $timetableId;;p $dayName;;p $user_id;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f11;28;5;37;;;;vpos;;v;;a;;r&#10;Definition&#10;    index()&#10;&#10;Description&#10;     Display a listing of the resource.;;d4,29;;b1,0;;m0;;e">
+</treenode>
+<treenode node="openTimetable;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f11;110;2;211;;;;vpos;;v;;a;;r;;d45,110;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="saveNewTimetableAdmin;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f8;246;2;354;;;;vpos;;v;;a;;r;;d56,246;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="saveTimetableAction;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timetable\TimetableController.php;f8;358;2;378;;;;vpos;;v;;a;;r;;d54,358;;b1,0;;m0;;erequest;;p">
+</treenode>
+</treenode>
+<treenode node="TimetableHour;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\TimeTable\TimetableHour.php;f0;7;1;31;;;;vpos;;v;;aModel;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="projects;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\TimeTable\TimetableHour.php;f11;16;5;18;;;;vpos;;v;;a;;r;;d30,16;;b1,0;;m0;;e">
+</treenode>
+<treenode node="user;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Model\TimeTable\TimetableHour.php;f11;20;5;22;;;;vpos;;v;;a;;r;;d26,20;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="TrimStrings;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Middleware\TrimStrings.php;f0;6;1;17;;;;vpos;;v;;aTransformsRequest;;c;;r;;d0,5;;b0,0;;m0;;e">
+</treenode>
+<treenode node="TrustHosts;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Middleware\TrustHosts.php;f0;6;1;19;;;;vpos;;v;;a;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="hosts;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Middleware\TrustHosts.php;f11;13;5;18;;;;vpos;;v;;aarray;;r&#10;Description&#10;     Get the host patterns that should be trusted.;;d-1,-1;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="TrustProxies;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Middleware\TrustProxies.php;f0;7;1;22;;;;vpos;;v;;a;;r;;d0,9;;b0,0;;m0;;e">
+</treenode>
+<treenode node="User;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\User.php;f0;12;1;90;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Admin.php;f0;12;1;45;;;;vpos;;v;;aAuthenticatable;;cMustVerifyEmail;;cNotifiable;;c;;r;;d0,13;;b0,0;;m0;;e">
+<treenode node="company;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\User.php;f11;47;5;49;;;;vpos;;v;;a;;r;;d29,47;;b1,0;;m0;;e">
+</treenode>
+<treenode node="files;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\User.php;f11;51;5;53;;;;vpos;;v;;a;;r;;d27,51;;b1,0;;m0;;e">
+</treenode>
+<treenode node="folders;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\User.php;f11;43;5;45;;;;vpos;;v;;a;;r;;d29,43;;b1,0;;m0;;e">
+</treenode>
+<treenode node="scopeFilter;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\User.php;f11;75;5;78;;;;vpos;;v;;a;;r;;d4,76;;b1,0;;m0;;ebuilder;;prequest;;p">
+</treenode>
+<treenode node="sendPasswordResetNotification;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\User.php;f11;86;2;88;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Admin.php;f11;41;2;43;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    sendPasswordResetNotification($token)&#10;&#10;Description&#10;     Send the password reset notification.&#10;&#10;Parameters:&#10;    string $token;;d57,41;;b1,0;;m0;;estring $token;;p">
+</treenode>
+<treenode node="TimesheetDailyHours;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\User.php;f11;67;5;69;;;;vpos;;v;;a;;r;;d41,67;;b1,0;;m0;;e">
+</treenode>
+<treenode node="timesheets;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\User.php;f11;71;5;73;;;;vpos;;v;;a;;r;;d32,71;;b1,0;;m0;;e">
+</treenode>
+<treenode node="UserDetail;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\User.php;f11;55;5;57;;;;vpos;;v;;a;;r;;d32,55;;b1,0;;m0;;e">
+</treenode>
+<treenode node="UserDocument;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\User.php;f11;63;5;65;;;;vpos;;v;;a;;r;;d34,63;;b1,0;;m0;;e">
+</treenode>
+<treenode node="UserJobDetail;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\User.php;f11;59;5;61;;;;vpos;;v;;a;;r;;d35,59;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="UserController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\UserController.php;f0;6;1;9;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f0;18;1;285;;;;vpos;;v;;aController;;c;;r;;d0,19;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f8;16;5;19;;D:\wamp64\www\sampleProjects\importData\quickstart\app\Http\Controllers\DataImport\UserController.php;f8;15;5;18;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f8;23;5;26;;;;vpos;;v;;a;;r&#10;Definition&#10;    __construct()&#10;&#10;Description&#10;     Apply Sconstructor method for middleware;;d4,24;;b1,0;;m0;;e">
+</treenode>
+<treenode node="create;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f11;107;5;111;;;;vpos;;v;;a;;r&#10;Definition&#10;    create()&#10;&#10;Description&#10;     Show the form for creating a new resource.;;d4,108;;b1,0;;m0;;e">
+</treenode>
+<treenode node="destroy;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f11;45;5;50;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f11;241;5;256;;;;vpos;;v;;a;;r&#10;Definition&#10;    destroy($id)&#10;&#10;Description&#10;     Remove the specified resource from storage.&#10;&#10;Parameters:&#10;    int $id;;d4,242;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="edit;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f11;178;5;184;;;;vpos;;v;;a;;r&#10;Definition&#10;    edit($id)&#10;&#10;Description&#10;     Show the form for editing the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,179;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="fetchEmployee;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f11;52;5;55;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f11;258;5;261;;;;vpos;;v;;a;;r;;d38,258;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Timesheet\NewFile.php;f11;26;5;37;;D:\wamp64\www\sampleProjects\importData\quickstart\app\Http\Controllers\DataImport\UserController.php;f11;25;5;40;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f11;33;5;49;;;;vpos;;v;;a;;r&#10;Definition&#10;    index(Request $request)&#10;&#10;Description&#10;     Display a listing of the resource.;;d4,34;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="jobRequestAction;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f11;71;5;100;;;;vpos;;v;;a;;r&#10;Definition&#10;    jobRequestAction(Request $request)&#10;&#10;Description&#10;     Display a listing of the resource.;;d4,72;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="jobRequests;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f11;56;5;64;;;;vpos;;v;;a;;r&#10;Definition&#10;    jobRequests()&#10;&#10;Description&#10;     Display a listing of the resource.;;d4,57;;b1,0;;m0;;e">
+</treenode>
+<treenode node="searchUsers;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f11;268;5;282;;;;vpos;;v;;a;;r&#10;Definition&#10;    searchUsers(Request $request)&#10;&#10;Description&#10;     Display a listing of the resource.;;d4,269;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="show;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f11;144;5;170;;;;vpos;;v;;a;;r&#10;Definition&#10;    show($id)&#10;&#10;Description&#10;     Display the specified resource.&#10;&#10;Parameters:&#10;    int $id;;d4,145;;b1,0;;m0;;eint $id;;p">
+</treenode>
+<treenode node="store;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f11;119;5;136;;;;vpos;;v;;a;;r&#10;Definition&#10;    store(Request $request)&#10;&#10;Description&#10;     Store a newly created resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request;;d4,120;;b1,0;;m0;;e\Illuminate\Http\Request $request;;p">
+</treenode>
+<treenode node="update;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f11;193;5;209;;;;vpos;;v;;a;;r&#10;Definition&#10;    update(Request $request, $id)&#10;&#10;Description&#10;     Update the specified resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request&#10;    int $id;;d4,194;;b1,0;;m0;;e\Illuminate\Http\Request $request;;pint $id;;p">
+</treenode>
+<treenode node="updateStatus;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\UserController.php;f11;218;5;232;;;;vpos;;v;;a;;r&#10;Definition&#10;    updateStatus(Request $request)&#10;&#10;Description&#10;     Update the specified resource in storage.&#10;&#10;Parameters:&#10;    \Illuminate\Http\Request $request;;d4,219;;b1,0;;m0;;e\Illuminate\Http\Request $request;;p">
+</treenode>
+</treenode>
+<treenode node="UserDetail;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\UserDetail.php;f0;7;1;19;;;;vpos;;v;;aModel;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="user;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\UserDetail.php;f11;15;5;17;;;;vpos;;v;;a;;r;;d26,15;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="UserDocument;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\UserDocument.php;f0;7;1;15;;;;vpos;;v;;aModel;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="user;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\UserDocument.php;f11;11;5;13;;;;vpos;;v;;a;;r;;d26,11;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="UserFilter;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\UserFilter.php;f0;11;1;19;;;;vpos;;v;;aAbstractFilter;;c;;r;;d0,12;;b0,0;;m0;;e">
+</treenode>
+<treenode node="UserJobDetail;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\NewFile.php;f0;7;1;17;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\UserJobDetail.php;f0;7;1;19;;;;vpos;;v;;aModel;;c;;r;;d0,8;;b0,0;;m0;;e">
+<treenode node="user;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\NewFile.php;f11;13;5;15;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\UserJobDetail.php;f11;15;5;17;;;;vpos;;v;;a;;r;;d26,15;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="UserStatusFilter;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\NewFile.php;f0;8;1;14;;;;vpos;;v;;a;;r;;d0,9;;b0,0;;m0;;e">
+<treenode node="filter;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Filters\NewFile.php;f11;10;5;13;;;;vpos;;v;;a;;r;;d4,11;;b1,0;;m0;;ebuilder;;pvalue;;p">
+</treenode>
+</treenode>
+<treenode node="VerificationController;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Auth\VerificationController.php;f0;8;1;41;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\VerificationController.php;f0;8;1;41;;;;vpos;;v;;aController;;cVerifiesEmails;;c;;r;;d0,9;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Auth\VerificationController.php;f11;35;5;40;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Controllers\Admin\Auth\VerificationController.php;f11;35;5;40;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    __construct()&#10;&#10;Description&#10;     Create a new controller instance.;;d4,36;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="VerifyCsrfToken;PHP:Class Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Http\Middleware\VerifyCsrfToken.php;f0;6;1;21;;;;vpos;;v;;aInteractsWithTime;;c;;r;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="AreModulesInstalled;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1314;1;1355;;;;vpos;;v;;a;;r;;d0,1315;;b0,0;;m0;;e">
+</treenode>
+<treenode node="buildTree;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Helpers\CustomHelper.php;f0;235;1;248;;;;vpos;;v;;a;;r&#10;Definition&#10;    buildTree(array $elements, $parentId = 0)&#10;&#10;Description&#10;     Create Tree View Using Parent Ids This Function has been used to create sub modules for admin permissions and generate side menus;;d51,235;;b0,0;;m0;;eelements;;pparentId;;p">
+</treenode>
+<treenode node="charHandler;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1132;1;1190;;;;vpos;;v;;a;;r;;d0,1133;;b0,0;;m0;;eparser;;pdata;;p">
+</treenode>
+<treenode node="CheckPHPVersion;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1289;1;1307;;;;vpos;;v;;a;;r;;d0,1290;;b0,0;;m0;;e">
+</treenode>
+<treenode node="CompareAndAddElementToArray;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Helpers\CustomHelper.php;f0;205;1;228;;;;vpos;;v;;a;;r&#10;Definition&#10;    CompareAndAddElementToArray(array $arrayData, array $arrayDataSub, $checkElement = &apos;id&apos;, $elementName = &apos;assigned&apos;, $existValue = TRUE, $notExistValue = FALSE)&#10;&#10;Description&#10;     Dev. Babar Description: Compare two arrays and check if an element of first exist in second -then put some extra component to that specific element Example available : true / false;;d169,205;;b0,0;;m0;;earrayData;;parrayDataSub;;pcheckElement;;pelementName;;pexistValue;;pnotExistValue;;p">
+</treenode>
+<treenode node="convertxmlchars;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1194;1;1211;;;;vpos;;v;;a;;r;;d0,1195;;b0,0;;m0;;estring;;pcalled_by;;p">
+</treenode>
+<treenode node="CreateXMLFromResult;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;673;1;789;;;;vpos;;v;;a;;r;;d0,674;;b0,0;;m0;;emysql;;pvalue;;p">
+</treenode>
+<treenode node="endElement;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1119;1;1128;;;;vpos;;v;;a;;r;;d0,1120;;b0,0;;m0;;eparser;;pname;;p">
+</treenode>
+<treenode node="ExecuteBatchQuery;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;969;1;1009;;;;vpos;;v;;a;;r;;d0,970;;b0,0;;m0;;emysql;;pquery;;p">
+</treenode>
+<treenode node="ExecuteSingleQuery;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;647;1;670;;;;vpos;;v;;a;;r;;d0,648;;b0,0;;m0;;emysql;;pquery;;p">
+</treenode>
+<treenode node="get_array_from_query;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;198;1;237;;;;vpos;;v;;a;;r;;d0,199;;b0,0;;m0;;equery;;pdb_link;;p">
+</treenode>
+<treenode node="getAccessTokenSecurity;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Helpers\CustomHelper.php;f0;128;1;155;;;;vpos;;v;;a;;r&#10;Definition&#10;    getAccessTokenSecurity()&#10;&#10;Description&#10;     Credentials;;d33,128;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getadminName;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Helpers\CustomHelper.php;f0;41;1;48;;;;vpos;;v;;a;;r;;d38,41;;b0,0;;m0;;eadminId;;p">
+</treenode>
+<treenode node="getCompanyData;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Helpers\CustomHelper.php;f0;103;1;113;;;;vpos;;v;;a;;r&#10;Definition&#10;    getCompanyData($companyId, $column = &apos;&apos;)&#10;&#10;Description&#10;     Get company name by id;;d49,103;;b0,0;;m0;;ecompanyId;;pcolumn;;p">
+</treenode>
+<treenode node="GetCorrectDataType;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;533;1;626;;;;vpos;;v;;a;;r;;d0,534;;b0,0;;m0;;eresult;;pj;;p">
+</treenode>
+<treenode node="GetCorrectDataTypeMySQLI;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;445;1;530;;;;vpos;;v;;a;;r;;d0,446;;b0,0;;m0;;etype;;p">
+</treenode>
+<treenode node="GetDetailsFromPostedXML;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1228;1;1253;;;;vpos;;v;;a;;r;;d0,1229;;b0,0;;m0;;exmlrecvd;;p">
+</treenode>
+<treenode node="getProfileImage;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Helpers\CustomHelper.php;f0;27;1;39;;;;vpos;;v;;a;;r;;d40,27;;b0,0;;m0;;euserId;;p">
+</treenode>
+<treenode node="getUserAllDocuments;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Helpers\CustomHelper.php;f0;80;1;98;;;;vpos;;v;;a;;r&#10;Definition&#10;    getUserAllDocuments($userId)&#10;&#10;Description&#10;     get all uploaded documents of a user by the user id&#10;&#10;Parameters:&#10;    Int/String $userId;;d37,80;;b0,0;;m0;;eInt/String $userId;;p">
+</treenode>
+<treenode node="getUserDocument;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Helpers\CustomHelper.php;f0;58;1;73;;;;vpos;;v;;aString;;r&#10;Definition&#10;    getUserDocument($userId, $documentColumn, $documentsResource = NULL)&#10;&#10;Description&#10;     Description: get single document of a user by the user id and name and resourse&#10;&#10;Parameters:&#10;    Int/String $userId&#10;    String $documentColumn - : image field name or database colum name&#10;    Object $documentsResource&#10;&#10;Return:&#10;   DocumentUrl;;d77,58;;b0,0;;m0;;eInt/String $userId;;pString $documentColumn;;pObject $documentsResource;;p">
+</treenode>
+<treenode node="HandleError;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1215;1;1223;;;;vpos;;v;;a;;r;;d0,1216;;b0,0;;m0;;eerrno;;perror;;p">
+</treenode>
+<treenode node="HandleExtraInfo;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;630;1;642;;;;vpos;;v;;a;;r;;d0,631;;b0,0;;m0;;emysql;;pvalue;;p">
+</treenode>
+<treenode node="is_allowed;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Helpers\CustomHelper.php;f0;256;1;266;;;;vpos;;v;;a;;r&#10;Definition&#10;    is_allowed($routeName)&#10;&#10;Description&#10;     Description: Check permission of a route name&#10;&#10;Parameters:&#10;    String $routeName - - name of route assigned by permission manager;;d31,256;;b0,0;;m0;;eString $routeName;;p">
+</treenode>
+<treenode node="LibXml2IsBase64Encoded;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1364;1;1371;;;;vpos;;v;;abool;;r&#10;Definition&#10;    LibXml2IsBase64Encoded()&#10;&#10;Description&#10;     checks if the XML stream is base 64 encoded&#10;&#10;Return:&#10;   If stream is encoded, return true;;d0,1365;;b0,0;;m0;;e">
+</treenode>
+<treenode node="LibXml2IsBuggy;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1376;1;1393;;;;vpos;;v;;a;;r;;d0,1377;;b0,0;;m0;;e">
+</treenode>
+<treenode node="my_strtok;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;826;1;963;;;;vpos;;v;;a;;r;;d54,826;;b0,0;;m0;;estring;;pdelimiter;;p">
+</treenode>
+<treenode node="ProcessQuery;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1428;1;1543;;;;vpos;;v;;a;;r;;d0,1429;;b0,0;;m0;;e">
+</treenode>
+<treenode node="securityLicenseCheck;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Helpers\CustomHelper.php;f0;157;1;193;;;;vpos;;v;;a;;r;;d45,157;;b0,0;;m0;;elicenseNumber;;p">
+</treenode>
+<treenode node="SetName;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1031;1;1049;;;;vpos;;v;;a;;r;;d0,1032;;b0,0;;m0;;emysql;;p">
+</treenode>
+<treenode node="SetNonStrictMode;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1013;1;1025;;;;vpos;;v;;a;;r;;d0,1014;;b0,0;;m0;;emysql;;p">
+</treenode>
+<treenode node="ShowAccessError;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1258;1;1285;;;;vpos;;v;;a;;r;;d0,1259;;b0,0;;m0;;eextra;;p">
+</treenode>
+<treenode node="startElement;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1053;1;1115;;;;vpos;;v;;a;;r;;d0,1054;;b0,0;;m0;;eparser;;pname;;pattrs;;p">
+</treenode>
+<treenode node="sumArrayOfTimes;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Helpers\NewFile.php;f0;8;1;24;;D:\wamp64\www\myProjects\job_portal\jobs_portal\app\Helpers\CustomHelper.php;f0;9;1;25;;;;vpos;;v;;a;;r&#10;Definition&#10;    sumArrayOfTimes($times = array())&#10;&#10;Description&#10;     Return sum of times in format array(&quot;02:05&quot;, &quot;11:00&quot;, &quot;0:00&quot;)&#10;&#10;Parameters:&#10;    undefined $times;;d42,9;;b0,0;;m0;;eundefined $times;;p">
+</treenode>
+<treenode node="WriteLog;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1397;1;1410;;;;vpos;;v;;a;;r;;d0,1398;;b0,0;;m0;;eloginfo;;p">
+</treenode>
+<treenode node="WriteLogTemp;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;1412;1;1425;;;;vpos;;v;;a;;r;;d0,1413;;b0,0;;m0;;eloginfo;;p">
+</treenode>
+<treenode node="yog_mysql_affected_rows;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;129;1;144;;;;vpos;;v;;a;;r;;d0,130;;b0,0;;m0;;edb_link;;p">
+</treenode>
+<treenode node="yog_mysql_close;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;396;1;410;;;;vpos;;v;;a;;r;;d0,397;;b0,0;;m0;;edb_link;;p">
+</treenode>
+<treenode node="yog_mysql_connect;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;16;1;50;;;;vpos;;v;;a;;r;;d0,17;;b0,0;;m0;;ehost;;pport;;pusername;;ppassword;;pdb_name;;p">
+</treenode>
+<treenode node="yog_mysql_connect_errno;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;412;1;425;;;;vpos;;v;;a;;r;;d0,413;;b0,0;;m0;;e">
+</treenode>
+<treenode node="yog_mysql_connect_error;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;428;1;441;;;;vpos;;v;;a;;r;;d0,429;;b0,0;;m0;;e">
+</treenode>
+<treenode node="yog_mysql_errno;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;241;1;256;;;;vpos;;v;;a;;r;;d0,242;;b0,0;;m0;;edb_link;;p">
+</treenode>
+<treenode node="yog_mysql_error;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;259;1;274;;;;vpos;;v;;a;;r;;d0,260;;b0,0;;m0;;edb_link;;p">
+</treenode>
+<treenode node="yog_mysql_fetch_array;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;328;1;342;;;;vpos;;v;;a;;r;;d0,329;;b0,0;;m0;;eresult;;p">
+</treenode>
+<treenode node="yog_mysql_fetch_field;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;311;1;325;;;;vpos;;v;;a;;r;;d0,312;;b0,0;;m0;;eresult;;p">
+</treenode>
+<treenode node="yog_mysql_fetch_lengths;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;345;1;359;;;;vpos;;v;;a;;r;;d0,346;;b0,0;;m0;;eresult;;p">
+</treenode>
+<treenode node="yog_mysql_field_flags;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;91;1;108;;;;vpos;;v;;a;;r;;d0,92;;b0,0;;m0;;eresult;;poffset;;p">
+</treenode>
+<treenode node="yog_mysql_field_len;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;72;1;88;;;;vpos;;v;;a;;r;;d0,73;;b0,0;;m0;;eresult;;poffset;;p">
+</treenode>
+<treenode node="yog_mysql_field_type;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;53;1;69;;;;vpos;;v;;a;;r;;d0,54;;b0,0;;m0;;eresult;;poffset;;p">
+</treenode>
+<treenode node="yog_mysql_free_result;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;362;1;376;;;;vpos;;v;;a;;r;;d0,363;;b0,0;;m0;;eresult;;p">
+</treenode>
+<treenode node="yog_mysql_get_server_info;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;111;1;126;;;;vpos;;v;;a;;r;;d0,112;;b0,0;;m0;;edb_link;;p">
+</treenode>
+<treenode node="yog_mysql_insert_id;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;147;1;162;;;;vpos;;v;;a;;r;;d0,148;;b0,0;;m0;;edb_link;;p">
+</treenode>
+<treenode node="yog_mysql_num_fields;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;294;1;308;;;;vpos;;v;;a;;r;;d0,295;;b0,0;;m0;;eresult;;p">
+</treenode>
+<treenode node="yog_mysql_num_rows;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;277;1;291;;;;vpos;;v;;a;;r;;d0,278;;b0,0;;m0;;eresult;;p">
+</treenode>
+<treenode node="yog_mysql_query;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;165;1;196;;;;vpos;;v;;a;;r;;d0,166;;b0,0;;m0;;equery;;pdb_link;;p">
+</treenode>
+<treenode node="yog_mysql_select_db;PHP:Function Name;D:\wamp64\www\myProjects\job_portal\jobs_portal\HelpingFiles\SQLyogTunnel_13.php;f0;379;1;393;;;;vpos;;v;;a;;r;;d0,380;;b0,0;;m0;;edb_name;;pdb_link;;p">
+</treenode>
+</phptree>
+</codestructure>

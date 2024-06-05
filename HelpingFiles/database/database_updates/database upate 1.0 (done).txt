@@ -1,0 +1,1 @@
+ALTER TABLE `files` ADD COLUMN `orignal_name` VARCHAR(200) NULL AFTER `folder_id`, ADD COLUMN `mime_type` VARCHAR(100) NULL AFTER `orignal_name`;

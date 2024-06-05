@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;600;700;800&display=swap');
+.input-wrap select{width: 100%; text-align-last:center; color: #333; text-transform: uppercase; padding: 20px 15px;text-align: center;border-bottom: 1px solid #ccc;border-top: none;border-left: none;border-right: none;font-size: 16px; font-weight: 700;}
+.input-wrap select option{display: block;width: 100%; text-align: center;}
+#download {padding: 15px 20px;background: #009ddc;display: inline-block;color: #fff;border-radius: 5px;margin-bottom: 10px;}
+#download:hover {background-color: #c1d72e;}
+#tbl-less .table tr td{word-break: break-all;}
+.main-menu-div>ul>li>a,
+.main-menu-div>ul>li.has-sub a{font-family: 'Montserrat', sans-serif;}
+.header-contact{    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: normal;
+	font-family: 'Montserrat', sans-serif;}
+.page-title{font-family: 'Montserrat', sans-serif;}
+.breadcrumb{margin-bottom: 20px;}
+.breadcrumb li{color: #333; font-size: 18px;font-weight: 600;}
+.footer .footer-two .flex-row .flex-col:first-child ul li a{font-family: 'Open Sans', sans-serif; text-transform: uppercase; font-size: 14px;}
+.footer .footer-two .flex-row .flex-col:last-child div a {display: inline-block;margin: 0 4px;font-size: 16px;}
+@media (min-width: 991px){
+.main-menu-div>ul>li>a{padding: 22px 24px; font-weight: 600; color: #666666;font-size: 16px;transition: background-color 0.2s linear;}
+.main-menu-div>ul>li>a:hover,
+.main-menu-div>ul>li.has-sub a:hover {background-color: #009ddc;color: #ffffff;}
+.main-menu-div ul li.hovered>ul{background-color: #009ddc; padding: 15px 20px;
+-webkit-box-shadow: 0px 0px 0px 0px;
+    -moz-box-shadow: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 0px 0px;}
+.main-menu-div ul li ul li.has-sub a {
+    color: #fff;
+    line-height: 1.4;
+    display: block;
+    padding: 10px;
+    text-align: left;
+    border-radius: 3px;
+}
+.main-menu-div>ul>li.has-sub.hovered>a{color: #666;}
+.main-menu-div>ul>li.has-sub.hovered>a:hover{color: #fff;}
+.main-menu-div>ul>li.has-sub.hovered>ul li a{color: #fff;font-weight: 400;}
+.main-menu-div>ul>li.has-sub.hovered>ul li a:hover {background: #000;color: #fff;}
+.main-menu-div ul li ul::before{display: none;}
+.socialicons{margin-top: 18px;}
+.darkHeader .socialicons{margin-top: 6px;}
+.darkHeader .socialicons a {font-size: 16px;margin: 0 4px;}
+.top-bar.darkHeader{    background-color: rgba(255,255,255,0.9);}
+.top-bar.darkHeader .main-menu-div>ul>li>a:hover{color: #fff;}
+
+}
+@media (max-width: 1500px){
+	.main-menu-div>ul>li>a{font-size: initial;}
+}

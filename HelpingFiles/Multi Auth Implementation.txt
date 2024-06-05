@@ -1,0 +1,4 @@
+Some Helping URLs
+1. https://www.codechief.org/article/laravel-multi-authentication-using-guard#gsc.tab=0
+2. https://laravel.com/docs/7.x/authentication
+3. https://medium.com/@sagarmaheshwary31/laravel-multiple-guards-authentication-setup-and-login-2761564da986

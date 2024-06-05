@@ -1,0 +1,9 @@
+Laravel Cache commands
+
+php artisan route:cache
+php artisan cache:clear
+php artisan config:cache
+php artisan view:clear
+
+Reload composer dump with new settings
+composer dump-autoload
